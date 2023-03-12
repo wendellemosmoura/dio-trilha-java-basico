@@ -1,5 +1,3 @@
-import javax.xml.transform.Source;
-
 public class Operadores {
     public static void main(String[] args) {
         String nomeCompleto = "Wendel " + "Lemos";
